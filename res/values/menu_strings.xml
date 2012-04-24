@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="first_menu_edit">Edit First</string>
+	<string name="first_menu_delete">Delete First</string>
+	<string name="first_menu_share">Share First</string>
+
+	<string name="second_menu_edit">Edit Second</string>
+	<string name="second_menu_agenda">Agenda Second</string>
+	<string name="second_menu_share">Share Second</string>
+	
+    <string name="third_menu_camera">Camera Third</string>
+	<string name="third_menu_delete">Delete Third</string>
+	<string name="third_menu_share">Share Third</string>
+	
+	<string name="fourth_menu_edit">Edit Fourth</string>
+	<string name="fourth_menu_delete">Delete Fourth</string>
+	<string name="fourth_menu_share">Share Fourth</string>
+</resources>

@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="hello">Hello World, TabsPageViewerActivity!</string>
+    <string name="app_name">TabsPageViewer</string>
+
+    <string name="selected_tab_1">ONE</string>
+    <string name="selected_tab_2">TWO</string>
+    <string name="selected_tab_3">THREE</string>    
+    <string name="selected_tab_4">FOUR</string>
+    
+</resources>
